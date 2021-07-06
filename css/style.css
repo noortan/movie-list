@@ -1,0 +1,21 @@
+*{
+    font-family: 'Roboto', sans-serif;
+    box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+
+}
+h1{
+    background-color: #39A2DB;
+    width: 100%;
+    margin-top: 20%;
+
+}
+main{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+
+}
+ table,td,th{
+     background-color: #A2DBFA;
+ }
